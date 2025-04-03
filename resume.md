@@ -26,20 +26,19 @@ pagetitle: Johann Kremser
 
 ## Summary
 
-* Masters student at the Technical University of Vienna.
-* Cutting edge camera software experience in the welding industry.
-* Interested in all kinds of software stuff especially in python projects and distributed systems.
+* Managing Director and Head of Development for Industrial Sensor Technology in Robotics.
+* laser vision sensor hardware and software experience in the welding industry.
+* automatic test and telecommunication systems developement.
+* mixed signal chip design (cmos, bipolar).
 
 ## Education
 
-### Master of Science in Software Engineering & Internet Computing
-#### Vienna University of Technology, Austria | 2024 - 2026 (expected graduation)
+### Technical University of Vienna (TU Wien) – Electrical Engineering, Industrial Electronics 
+#### Vienna University of Technology, Austria | 1982 - 1988 (Completed ca. 7 of 10 semesters)
 
-### Bachelor of Science in Software & Information Engineering
-#### Vienna University of Technology, Austria | 2018 - 2024 (expected graduation)
+### HTL Nachrichtentechnik (Higher Technical Institute for Telecommunications and Electronics)
+#### HTLBVA, Vienna, Austria | 1982
 
-### High school graduation
-#### Vienna Theresianische Akademie, Austria | 2008 - 2016
 
 ## Experience
 
