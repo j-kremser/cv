@@ -26,10 +26,11 @@ pagetitle: Johann Kremser
 
 ## Summary
 
-* Managing Director and Head of Development for Industrial Sensor Technology in Robotics.
-* laser vision sensor hardware and software experience in the welding industry.
-* automatic test and telecommunication systems developement.
-* mixed signal chip design (cmos, bipolar).
+* Managing Director and Head of Development in company for Industrial Sensors and Telecommunication systems.
+* seam tracking laser vision sensor for welding robots hardware and software developement, production.
+* telecommunication systems (ISDN, X25) hardware and software developement, production.
+* automatic test systems developement.
+* mixed signal chip design (telecommunications, motor control).
 
 ## Education
 
